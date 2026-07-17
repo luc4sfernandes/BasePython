@@ -1,4 +1,4 @@
-# 📚 Base Python — Trilha de Estudos e Maestria
+# 🐍 Base Python — Trilha de Estudos e Maestria
 
 > Um repositório vivo e progressivo dedicado ao domínio do ecossistema Python, estruturado para evoluir do zero até a alta proficiência.
 
